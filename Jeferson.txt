@@ -1,1 +1,12 @@
 Jeferson de Araujo Morato
+
+Git marge: permite que você pegue as linhas criadas a partir do Git branch e faça uma integração para a ramificação principal.
+Git push: envia o conteúdo do repositório local para um repositório remoto. 
+Git pull: serve para recuperar e baixar o conteúdo de um repositório remoto e atualizar o repositório local assim que ele for baixado.
+Git staged: marca um arquivo modificado em sua versão atual para ir para seu próximo instantâneo de commit.
+Git version: usado para controlar o histórico de alterações de arquivos e principalmente de projetos de desenvolvimento de software.
+Git repository: é um local de armazenamento central para gerenciar e rastrear alterações em arquivos e diretórios.
+git commit: leva as mudanças de um ambiente local para o repositório no git, permitindo ainda a inserção de uma mensagem descritiva.
+Git add: escolhe quais informações e arquivos você deseja adicionar.
+Git branch: Faz uma conjução com outro para subir as alterações.
+Git clone: clona um código de um repositorio para sua maquina. 
